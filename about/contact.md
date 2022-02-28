@@ -76,7 +76,7 @@
             <!-- we have used list tag that is ul 
                  to list the items-->
             <ul class="nav-list">
-                <li><a href="#Car">Car</a></li>
+                <li><a href=raphael
                 <li><a href="#file">file</a></li>
             </ul>
             <!-- we have used rightnav in order to design
