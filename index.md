@@ -1,6 +1,6 @@
 
 ## Welcome to GitHub 
-https://raph99hebert.github.io/tech/about/contact.html
+editor on GitHub
 
 You can use the [editor on GitHub](https://github.com/Raph99hebert/tech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
