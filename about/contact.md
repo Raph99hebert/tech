@@ -77,7 +77,7 @@
                  to list the items-->
             <ul class="nav-list">
                 <li><a href="#Car">Car</a></li>
-                <li><a href="/contact/contact">fil</a></li>
+                <li><a href="/contact/contact">contact/contact</a></li>
             </ul>
             <!-- we have used rightnav in order to design
                  the seachbar properly by using CSS-->
